@@ -77,10 +77,10 @@
                                             "type": "boolean"
                                         },
                                         "created_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         },
                                         "updated_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         }
                                     }
                                 }
@@ -127,10 +127,10 @@
                                             "type": "boolean"
                                         },
                                         "created_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         },
                                         "updated_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         }
                                     }
                                 }
@@ -177,10 +177,10 @@
                                             "type": "boolean"
                                         },
                                         "created_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         },
                                         "updated_at": {
-                                            "type": "date"
+                                            "type": "string"
                                         }
                                     }
                                 }
